@@ -1,0 +1,109 @@
+,Entity1_name,Entity1_type,Entity2_name,Entity2_type,scorce
+3198,PTPRC,Gene,adalimumab,Chemical,1
+3199,PTPRC,Gene,Tumor necrosis factor alpha (TNF-alpha) inhibitors,Chemical,1
+3201,PTPRC,Gene,etanercept,Chemical,1
+3202,PTPRC,Gene,infliximab,Chemical,1
+19010,KLF4,Gene,hydroxyurea,Chemical,1
+30947,HLA-DOB,Gene,Platinum compounds,Chemical,1
+32688,EGFR,Gene,cetuximab,Chemical,1
+32689,EGFR,Gene,imatinib,Chemical,1
+32690,EGFR,Gene,fluorouracil,Chemical,1
+32691,EGFR,Gene,gefitinib,Chemical,1
+32692,EGFR,Gene,erlotinib,Chemical,1
+32695,EGFR,Gene,topoisomerase I inhibitors,Chemical,1
+32697,EGFR,Gene,geldanamycin,Chemical,1
+32698,EGFR,Gene,lapatinib,Chemical,1
+32699,EGFR,Gene,egfr inhibitors,Chemical,1
+32700,EGFR,Gene,panitumumab,Chemical,1
+32701,EGFR,Gene,Alkylating Agents,Chemical,1
+32702,EGFR,Gene,peginterferon alfa-2a,Chemical,1
+32703,EGFR,Gene,peginterferon alfa-2b,Chemical,1
+32705,EGFR,Gene,neratinib,Chemical,1
+32706,EGFR,Gene,afatinib,Chemical,1
+32707,EGFR,Gene,regorafenib,Chemical,1
+32708,EGFR,Gene,vandetanib,Chemical,1
+32711,EGFR,Gene,pembrolizumab,Chemical,1
+32712,EGFR,Gene,nivolumab,Chemical,1
+32713,EGFR,Gene,atezolizumab,Chemical,1
+32714,EGFR,Gene,osimertinib,Chemical,1
+32725,EGFR,Gene,dacomitinib,Chemical,1
+32726,EGFR,Gene,ipilimumab,Chemical,1
+32727,EGFR,Gene,ramucirumab,Chemical,1
+32728,EGFR,Gene,tepotinib,Chemical,1
+32729,EGFR,Gene,cemiplimab-rwlc,Chemical,1
+32760,EGFR,Gene,carboplatin,Chemical,1
+32761,EGFR,Gene,irinotecan,Chemical,1
+32762,EGFR,Gene,leucovorin,Chemical,1
+32763,EGFR,Gene,paclitaxel,Chemical,1
+32764,EGFR,Gene,ribavirin,Chemical,1
+32765,EGFR,Gene,tegafur,Chemical,1
+42284,SOCS3,Gene,peginterferon alfa-2a,Chemical,1
+42285,SOCS3,Gene,peginterferon alfa-2b,Chemical,1
+42287,SOCS3,Gene,ribavirin,Chemical,1
+62507,CXCL10,Gene,peginterferon alfa-2a,Chemical,1
+62508,CXCL10,Gene,peginterferon alfa-2b,Chemical,1
+64435,CCR5,Gene,maraviroc,Chemical,1
+64437,CCR5,Gene,glatiramer acetate,Chemical,1
+64948,MMP1,Gene,Antiinflammatory agents, non-steroids,Chemical,1
+74814,CXCL13,Gene,rituximab,Chemical,1
+83204,FKBP5,Gene,escitalopram,Chemical,1
+83205,FKBP5,Gene,corticosteroids,Chemical,1
+83206,FKBP5,Gene,Selective serotonin reuptake inhibitors,Chemical,1
+83207,FKBP5,Gene,liothyronine,Chemical,1
+83215,FKBP5,Gene,bupropion,Chemical,1
+83216,FKBP5,Gene,citalopram,Chemical,1
+83217,FKBP5,Gene,clomipramine,Chemical,1
+83218,FKBP5,Gene,clozapine,Chemical,1
+83219,FKBP5,Gene,fluoxetine,Chemical,1
+83220,FKBP5,Gene,gemcitabine,Chemical,1
+83221,FKBP5,Gene,lithium,Chemical,1
+83222,FKBP5,Gene,mirtazapine,Chemical,1
+83223,FKBP5,Gene,nefazodone,Chemical,1
+83224,FKBP5,Gene,paroxetine,Chemical,1
+83225,FKBP5,Gene,venlafaxine,Chemical,1
+83226,FKBP5,Gene,antidepressants,Chemical,1
+83227,FKBP5,Gene,glucocorticoids,Chemical,1
+104551,TYMS,Gene,pemetrexed,Chemical,1
+104552,TYMS,Gene,fluorouracil,Chemical,1
+104553,TYMS,Gene,bevacizumab,Chemical,1
+104554,TYMS,Gene,oxaliplatin,Chemical,1
+104555,TYMS,Gene,raltitrexed,Chemical,1
+104556,TYMS,Gene,platinum,Chemical,1
+104557,TYMS,Gene,dactinomycin,Chemical,1
+104559,TYMS,Gene,hydroxychloroquine,Chemical,1
+104574,TYMS,Gene,FOLFOX,Chemical,1
+104575,TYMS,Gene,FOLFIRI,Chemical,1
+104576,TYMS,Gene,XELOX,Chemical,1
+104612,TYMS,Gene,asparaginase,Chemical,1
+104613,TYMS,Gene,azathioprine,Chemical,1
+104614,TYMS,Gene,capecitabine,Chemical,1
+104615,TYMS,Gene,carboplatin,Chemical,1
+104616,TYMS,Gene,cisplatin,Chemical,1
+104617,TYMS,Gene,cyclophosphamide,Chemical,1
+104618,TYMS,Gene,cytarabine,Chemical,1
+104619,TYMS,Gene,daunorubicin,Chemical,1
+104620,TYMS,Gene,docetaxel,Chemical,1
+104621,TYMS,Gene,doxorubicin,Chemical,1
+104622,TYMS,Gene,epirubicin,Chemical,1
+104623,TYMS,Gene,etoposide,Chemical,1
+104624,TYMS,Gene,folic acid,Chemical,1
+104625,TYMS,Gene,gemcitabine,Chemical,1
+104626,TYMS,Gene,irinotecan,Chemical,1
+104627,TYMS,Gene,leucovorin,Chemical,1
+104628,TYMS,Gene,mercaptopurine,Chemical,1
+104629,TYMS,Gene,methotrexate,Chemical,1
+104630,TYMS,Gene,paclitaxel,Chemical,1
+104631,TYMS,Gene,prednisone,Chemical,1
+104632,TYMS,Gene,risperidone,Chemical,1
+104633,TYMS,Gene,sulfasalazine,Chemical,1
+104634,TYMS,Gene,trastuzumab,Chemical,1
+104635,TYMS,Gene,vincristine,Chemical,1
+104636,TYMS,Gene,vinorelbine,Chemical,1
+104637,TYMS,Gene,azacitidine,Chemical,1
+104638,TYMS,Gene,tegafur,Chemical,1
+109030,IL7R,Gene,glatiramer acetate,Chemical,1
+110356,MS4A1,Gene,tositumomab,Chemical,1
+110357,MS4A1,Gene,ibritumomab,Chemical,1
+110358,MS4A1,Gene,ofatumumab,Chemical,1
+110359,MS4A1,Gene,afutuzumab,Chemical,1
+110360,MS4A1,Gene,rituximab,Chemical,1
